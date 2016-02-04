@@ -1,7 +1,7 @@
 {
   "name": "grunt-domino-css",
   "description": "Compiles CSS into domino.css rules scripts.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/cinema6/grunt-domino-css",
   "author": {
     "name": "Reelcontent, Inc.",
